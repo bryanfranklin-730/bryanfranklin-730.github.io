@@ -1,11 +1,67 @@
-#wrapper2 {
-  display: flex;
+#Main {
+    display: flex;
+    padding: 25px 35px;
+    border-bottom: 2px solid #000000;
+    background: #ECF5EF;
 }
-
-#EXP1 {
+#Name{
   flex: 0 0 65%;
+font-size: 36px;
 }
 
-#skills {
+#ContactInfo {
+
   flex: 1;
+}
+
+#personal{
+text-align: Center;
+color: grey;
+
+font-size: 14px;
+font-style: italic;
+line-height: 1.4em;
+    padding: 10px 10px;
+    border-bottom: 2px solid #000000;
+    background: #ECF5EF;
+}
+
+#personal2{
+text-align: Center;
+color: grey;
+font-size: 18px;
+line-height: 1.4em;
+    padding: 10px 10px;
+    
+    background: #ECF5EF;
+}
+
+#expTotal{
+    padding: 25px 35px;
+    border-bottom: 2px solid #000000;
+    background: #ECF5EF;
+}
+
+#skillset{
+    padding: 25px 35px;
+    border-bottom: 2px solid #000000;
+    background: #ECF5EF;
+}
+
+#Edu{
+    padding: 25px 35px;
+    border-bottom: 2px solid #000000;
+    background: #ECF5EF;
+}
+#skill1{
+text-align: Center
+    padding: 25px 35px;
+    
+    background: #ECF5EF;
+}
+#skill2{
+text-align: Right
+    padding: 25px 35px;
+   
+    background: #ECF5EF;
 }
